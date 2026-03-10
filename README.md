@@ -40,7 +40,10 @@
 
 <br clear="both">
 
-![Image](https://www.magicalquote.com/wp-content/uploads/2023/01/Being-a-Mandalorians-not-just-learning-about-how-to-fight.-You-also-have-to-know-how-to-navigate-the-galaxy.-That-way-youll-never-be-lost..jpg)
+<p align="center">
+  <img src="https://www.magicalquote.com/wp-content/uploads/2023/01/Being-a-Mandalorians-not-just-learning-about-how-to-fight.-You-also-have-to-know-how-to-navigate-the-galaxy.-That-way-youll-never-be-lost..jpg" />
+</p>
+
 
 ###
 
