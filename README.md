@@ -1,11 +1,5 @@
 <h1 align="left">Hi, Im MandoDB, and this is my way... 🌌</h1>
 
-<p align="left">You're the...</p>
-<p align="center">
-  <img src ="https://profile-counter.glitch.me/MandoDB/count.svg"/>
-</p>
-<p align="left">th person to check out my profile !!</p>
-
 ###
 
 ![MandoDB's Stats](https://github-readme-stats.vercel.app/api?username=mandodb&show_icons=true&theme=radical)
